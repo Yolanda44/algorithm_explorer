@@ -122,7 +122,7 @@ Response:
 ```
 During playback, the UI highlights index 2, then 3, illustrating the halving strategy.
 
-## Educational Impact (for professors and mentors)
+## Educational Impact
 Visualization bridges the gap between theory and practice. By showing every swap or checked index, students see the mechanics behind big-O notation:
 - **Complexity intuition**: Watching bubble sort’s repeated passes contrasts with merge sort’s divide-and-conquer merging. Binary search’s halving is visually obvious versus linear search’s sequential scan.
 - **Mental models**: Animations convert abstract descriptions into concrete operations on arrays, reinforcing understanding of loops, conditionals, and recursion.
@@ -151,13 +151,6 @@ Visualization bridges the gap between theory and practice. By showing every swap
 - Quiz mode with interactive challenges and scoring
 - Mobile-friendly layout for phones and tablets
 - One-click deployment presets (Render, Vercel, Fly.io)
-
-## Why This Project Demonstrates Academic Excellence
-- **Mastery of algorithms**: Implements multiple sorting and searching strategies with explicit step capture for pedagogy.
-- **Strong Python engineering**: Clear module boundaries, typed request models, reproducible requirements, and CORS-aware APIs.
-- **Full-stack mindset**: Harmonizes backend computation with frontend visualization, emphasizing data flow and user experience.
-- **Educational focus**: Designed to help peers learn—step descriptions, algorithm guides, and adjustable pacing show care for pedagogy.
-- **Computational thinking**: Encourages comparison of strategies, examination of complexity, and reflection on correctness, mirroring academic rigor.
 
 ## License & Acknowledgments
 This project is released for educational use. Built with appreciation for the open-source communities behind FastAPI, Python, and the many educators who champion clear explanations of core computer science concepts. Feedback from professors, teaching assistants, and fellow students is warmly welcomed to keep improving the learning experience.
